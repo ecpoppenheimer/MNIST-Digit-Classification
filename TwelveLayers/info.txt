@@ -1,0 +1,5 @@
+This net has a structure defined by
+net = EricNet.Network([784, 400, 200, 100, 50, 45, 40, 35, 30, 25, 20, 15, 10])
+
+It took 23016 seconds to train
+It has an accuracy of 98.01% on the test data
